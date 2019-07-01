@@ -1,0 +1,43 @@
+{"_id":{"$oid":"5ce3b840abe6a4c56bdfd6f1"},"name":"Haupt","vorname":"Werner"}
+{"_id":{"$oid":"5ce3bcc71be08021447e6818"},"a":1}
+{"_id":{"$oid":"5ce3bcc71be08021447e6819"},"a":2}
+{"_id":{"$oid":"5ce3bcc71be08021447e681a"},"a":3}
+{"_id":{"$oid":"5ce3bcc71be08021447e681b"},"a":1}
+{"_id":{"$oid":"5ce3bcc71be08021447e681c"},"a":2}
+{"_id":{"$oid":"5ce3bcc71be08021447e681d"},"a":3}
+{"_id":{"$oid":"5cf6b8c6c34cd920ae0144ea"},"SessionID":"123"}
+{"_id":{"$oid":"5cf6b92792565723f75cdec2"},"username":"testaccountl","firstname":"test","lastname":null,"password":null,"email":null,"dayob":null,"monthob":null,"yearob":null}
+{"_id":{"$oid":"5cf6b987557f8a25403181cf"},"username":"testaccountla","firstname":"Test","lastname":"Account","password":"test","email":"asdnjasdnkjadn","dayob":"22","monthob":"11","yearob":"1999"}
+{"_id":{"$oid":"5cf6b9f9557f8a25403181d0"},"username":"Hans78","firstname":"Hans","lastname":"Schmal","password":"gisela","email":"hansschmal@schmal.de","dayob":"12","monthob":"05","yearob":"1978"}
+{"_id":{"$oid":"5cf6baef557f8a25403181d1"},"username":"sdfdfs","firstname":"dfsdfs","lastname":"dfsdfs","password":"asd","email":"adsasd","dayob":"1","monthob":"1","yearob":"2"}
+{"_id":{"$oid":"5cf6bd4d557f8a25403181d2"},"username":"JürgenVoll","firstname":"Jürgen","lastname":"Voll","password":"voller","email":"JürgenVoll@VolleKanne.de","dayob":"15","monthob":"01","yearob":"1980","SessionID":"123"}
+{"_id":{"$oid":"5cf6c02a557f8a25403181d3"},"username":"test123","firstname":"Test","lastname":"123","password":"12345","email":"dennis.haupt@stud.hs-ruhrwest.","dayob":"25","monthob":"07","yearob":"1994","SessionID":"123"}
+{"_id":{"$oid":"5cff5fe32ee59111191da5fb"},"username":"Daniel123","firstname":"Daniel","lastname":"Möller","password":"test","email":"asdsad","dayob":"1","monthob":"2","yearob":"2"}
+{"_id":{"$oid":"5cffb6b17dc134e23266edd0"},"username":"Daniel123","SessionID":"123"}
+{"_id":{"$oid":"5cffc219b19e9321f7a978f0"},"username":"Hansi","firstname":"Hansi","lastname":"Schwansi","password":"d","email":"Isk","dayob":"4444444","monthob":"44","yearob":"44","SessionID":"ARbv17pyJdPvHIis1CKGljpFlBbyNzus"}
+{"_id":{"$oid":"5d0004fe9a39ac104afa578c"},"username":"asd","firstname":"asd","lastname":"asd","password":"asd","email":"asd","dayob":"1","monthob":"1","yearob":"1"}
+{"_id":{"$oid":"5d00050d9a39ac104afa578d"},"username":"ads","firstname":"asd","lastname":"asd","password":"asd","email":"asdasd","dayob":"1","monthob":"1","yearob":"1"}
+{"_id":{"$oid":"5d0006139a39ac104afa578e"},"username":"asdasd","firstname":"asdasd","lastname":"asdasd","password":"asd","email":"","dayob":"","monthob":"","yearob":""}
+{"_id":{"$oid":"5d000b9932c505196e02f643"},"username":"tester","firstname":"asd","lastname":"asd","password":"asd","email":"asd","dayob":"1","monthob":"1","yearob":"1","gend":"male","placebirth":"Bottrop"}
+{"_id":{"$oid":"5d000c5632c505196e02f644"},"username":"testerin","firstname":"asd","lastname":"asd","password":"asd","email":"asd","dayob":"1","monthob":"1","yearob":"1","gend":"female","placebirth":"Gelsenkirchen"}
+{"_id":{"$oid":"5d00112a905f7d212b389f8e"},"username":"Testes","firstname":"Ra","lastname":"D","password":"a","email":"A","dayob":"55","monthob":"114","yearob":"64646","gend":"male","placebirth":"Oberhausen","SessionID":""}
+{"_id":{"$oid":"5d0140fc50984a10b95acd80"},"username":"Anna","firstname":"Anna","lastname":"Klar","password":"a","email":"a","dayob":"1","monthob":"1","yearob":"1","gend":"female","placebirth":"a","SessionID":""}
+{"_id":{"$oid":"5d01412a50984a10b95acd81"},"username":"Annaa","firstname":"Anna","lastname":"Klar","password":"a","email":"a","dayob":"1","monthob":"1","yearob":"1","gend":"female","placebirth":"a","SessionID":""}
+{"_id":{"$oid":"5d014f2a2d0dd81cb21aa20f"},"username":"aa","firstname":"Daniel","lastname":"Möller","password":"","email":"d","dayob":"20","monthob":"02","yearob":"1997","gend":"male","placebirth":"Bottrop","userid":"[object Promise]"}
+{"_id":{"$oid":"5d014f74cb1d731eff347146"},"username":"aaaaa","firstname":"Daniel","lastname":"Möller","password":"","email":"d","dayob":"20","monthob":"02","yearob":"1997","gend":"male","placebirth":"Bottrop","userid":null}
+{"_id":{"$oid":"5d015065feb50d23da14fe1a"},"username":"b","firstname":"Daniel","lastname":"Möller","password":"","email":"d","dayob":"20","monthob":"02","yearob":"1997","gend":"male","placebirth":"Bottrop","userid":{}}
+{"_id":{"$oid":"5d0151bb544e67258ab2695b"},"username":"bb","firstname":"Daniel","lastname":"Möller","password":"","email":"d","dayob":"20","monthob":"02","yearob":"1997","gend":"male","placebirth":"Bottrop","userid":null}
+{"_id":{"$oid":"5d0151e61b4d6c26a9a61fc5"},"username":"bbbbb","firstname":"a","lastname":"s","password":"a","email":"a","dayob":"1","monthob":"1","yearob":"1","gend":"male","placebirth":"a","userid":null}
+{"_id":{"$oid":"5d015224f05b2027e370a174"},"username":"c","firstname":"a","lastname":"s","password":"","email":"a","dayob":"1","monthob":"1","yearob":"1","gend":"male","placebirth":"a","userid":NaN}
+{"_id":{"$oid":"5d01522df05b2027e370a175"},"username":"cb","firstname":"a","lastname":"s","password":"","email":"a","dayob":"1","monthob":"1","yearob":"1","gend":"male","placebirth":"a","userid":NaN}
+{"_id":{"$oid":"5d0152e7f984ba2b68dbdc42"},"username":"d","firstname":"","lastname":"","password":"","email":"","dayob":"","monthob":"","yearob":"","gend":null,"placebirth":"","userid":NaN}
+{"_id":{"$oid":"5d01531b9e84d02c9227ee80"},"username":"dd","firstname":"","lastname":"","password":"","email":"","dayob":"","monthob":"","yearob":"","gend":null,"placebirth":"","userid":NaN}
+{"_id":{"$oid":"5d01538bd9de402ef0a1e95f"},"username":"ddddd","firstname":"","lastname":"","password":"","email":"","dayob":"","monthob":"","yearob":"","gend":null,"placebirth":"","userid":null}
+{"_id":{"$oid":"5d0153d6c0d0b3301f1c63e5"},"username":"abc","firstname":"","lastname":"","password":"","email":"","dayob":"","monthob":"","yearob":"","gend":null,"placebirth":"","userid":37}
+{"_id":{"$oid":"5d017a958bc887150ed55d39"},"username":"hi","firstname":"hi","lastname":"hi","password":"123","email":"test","dayob":"25","monthob":"01","yearob":"1111","gend":"male","placebirth":"mh","userid":38,"SessionID":"6zthXFQQp1tbvn_MhyhC-gLedHVwRvtE"}
+{"_id":{"$oid":"5d0506ec29349d11ed1d5713"},"username":"Astrid","firstname":"Astrid","lastname":"Möller","password":"test","email":"","dayob":"04","monthob":"09","yearob":"1971","gend":"female","placebirth":"Essen","userid":39,"SessionID":"46c6sE-t3PATI5SJAU1Syuwc2T8qBX6X"}
+{"_id":{"$oid":"5d0932a96d37c310c275de12"},"username":"Dennis","firstname":"Dennis","lastname":"Haupt","password":"123","email":"test","dayob":"25","monthob":"7","yearob":"1994","gend":"male","placebirth":"Mülheim an der Ruhr","userid":40,"SessionID":"Cskh8Uxkk7Etj2gUE0ayjgIh9Z_b9lpu"}
+{"_id":{"$oid":"5d0a81b3f0b0bf112285d870"},"username":"testtest","firstname":"test","lastname":"test","password":"test","email":"test","dayob":"01","monthob":"08","yearob":"2019","gend":"male","placebirth":"ads","userid":41,"SessionID":""}
+{"_id":{"$oid":"5d0a8231f0b0bf112285d871"},"username":"test2","firstname":"test","lastname":"test","password":"test","email":"test","dayob":"01","monthob":"08","yearob":"1997","gend":"male","placebirth":"asd","userid":42,"SessionID":""}
+{"_id":{"$oid":"5d0a92e1f0b0bf112285d875"},"username":"Marc","firstname":"Marc","lastname":"Heußner","password":"test","email":"Marcheussnrr@web.de","dayob":"26","monthob":"01","yearob":"1972","gend":"female","placebirth":"Gummersbach ","userid":43,"SessionID":"DaMMdJ0CWQUg2aBbt1hJNhSqqTg5Wu_A"}
+{"_id":{"$oid":"5d0ac26038ff0f1c3f805db7"},"username":"Daniel","firstname":"Daniel","lastname":"Möller","password":"test1234","email":"danielmoeller97@web.de","dayob":"20","monthob":"02","yearob":"1997","gend":"male","placebirth":"Bottrop","userid":37,"SessionID":""}

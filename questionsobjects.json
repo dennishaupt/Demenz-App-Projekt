@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5d03858614b33ffc0f5edd69"},"name":"Apfel","id":1.0}
+{"_id":{"$oid":"5d03858e14b33ffc0f5edd6a"},"name":"Cent","id":2.0}
+{"_id":{"$oid":"5d03859514b33ffc0f5edd6b"},"name":"Tisch","id":3.0}
+{"_id":{"$oid":"5d0385a514b33ffc0f5edd6c"},"name":"Ball","id":4.0}
+{"_id":{"$oid":"5d0385ac14b33ffc0f5edd6d"},"name":"Schuh","id":5.0}

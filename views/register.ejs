@@ -1,0 +1,277 @@
+<html>
+
+<head>
+	<!-- CODELAB: Add the install script here -->
+
+	<link rel="manifest" href="pages/manifest.webmanifest">
+
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="application-name" content="Demenz">
+	<meta name="apple-mobile-web-app-title" content="Demenz">
+	<meta name="theme-color" content="#888888">
+	<meta name="msapplication-navbutton-color" content="#888888">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="msapplication-starturl" content="/">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="icon" type="ico" sizes="32x32" href="pages/iconw32.ico">
+	<link rel="icon" type="ico" sizes="192x192" href="pages/iconw32.ico">
+	<link rel="icon" type="ico" sizes="512x512" href="pages/iconw32.ico">
+	<link rel="apple-touch-icon" type="ico" sizes="32x32" href="pages/iconw32.ico">
+	<link rel="icon" type="ico" sizes="64x64" href="pages/iconw64">
+	<link rel="apple-touch-icon" type="ico" sizes="64x64" href="pages/iconw64">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Registrierung</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:url" content="" />
+	<meta property="og:site_name" content="" />
+	<meta property="og:description" content="" />
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700,900" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="pages/css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="pages/css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="pages/css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="pages/css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="pages/css/flexslider.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="pages/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="pages/css/owl.theme.default.min.css">
+
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="pages/css/style.css">
+	<!-- Modernizr JS -->
+	<script src="pages/js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="pages/js/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+
+	<div class="colorlib-loader"></div>
+
+	<div id="page">
+		<nav class="colorlib-nav" role="navigation">
+			<div class="top-menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-2 text-center">
+							<img src="pages/logo192.png" alt="Demenz App">
+							<div id="colorlib-logo"><a href="index">Demenz App</a></div>
+							<button class="add-button">Add to home screen</button>
+						</div>
+						<div class="col-md-10 text-right menu-1">
+							<ul>
+								<li class="active"><a href="/">Home</a></li>
+								<li class="btn-cta"><a href="/register">Registrieren</a></li>
+								<li class="btn-cta"><a href="/">Einloggen</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<div class="colorlib-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center">
+						<div class="intro">
+							<h1>App zur Ersteinschätzung von Demenz</h1>
+							<p>Diese Anwendung gibt Ihnen eine schnelle erste Einschätzung zur Beurteilung einer möglichen Demenz.</p>
+							<form action="senden.html" method="POST" id="LOGINFORM">
+								<legend>
+									<h4 class="whitefont">Registrieren</h4>
+								</legend>
+								<div class="form-group row">
+									<div class="col-md-4">
+										<label for "username">Benutzername</label>
+									</div>
+									<div class="col-md-4">
+											<input type="" name="username" id="username" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+									<div class="col-md-4"></div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">
+										<p><label for "firstname">Vorname</label>
+									</div>
+									<div class="col-md-4">
+										<input type="" name="firstname" id="firstname" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">
+										<label for "sirname">Nachname</label>
+									</div>
+									<div class="col-md-4">
+										<input type="" name="lastname" id="lastname" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">
+										<label for "password">Passwort</label>
+									</div>
+									<div class="col-md-4">
+										<input type="password" name="password" id="password" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">
+										<label for "password">Passwort wiederholen</label>
+									</div>
+									<div class="col-md-4">
+										<input type="password" name="passwordsubmit" id="passwordsubmit" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">	
+										<label for "email">E-Mail</label>
+									</div>
+									<div class="col-md-4">
+										<input type="email" name="email" id="email" maxlength="40" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+									<fieldset>
+										<div class="form-group row">
+											<div class="col-md-4">	
+												<label for "gender">Geschlecht</label>
+											</div>
+											<div class="col-md-4">
+												<input type="radio" id="genderm" name="gender" value="male">
+												<label for="genderm">Männlich</label>
+												<input type="radio" id="genderfm" name="gender" value="female">
+												<label for="genderfm">Weiblich</label>
+											</div>
+										</div>
+									</fieldset>
+								<div class="form-group row">
+									<div class="col-md-4">	
+										<label for "daybirth">Geburtstag</label>
+									</div>
+									<div class="col-md-4">
+										<input type="number" name="daybirth" class="daybirth" id="daybirth" maxlength="2" placeholder="dd"><input type="number" name="monthbirth" class="monthbirth" id="monthbirth" maxlength="2" placeholder="mm"><input type="number" name="yearbirth"
+										 class="yearbirth" id="yearbirth" maxlength="4" placeholder="yyyy">
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-md-4">
+										 <p><label for "birthplace">Geburtsort</label>
+									</div>
+									<div class="col-md-4">
+										<input type="" name="birthplace" id="birthplace" maxlength="30" placeholder="Bitte ausfüllen">
+									</div>
+								</div>
+									<p id="registerfailtextpass">
+										<h4 class="registerfailpass">Passwörter stimmen nicht überein</h4>
+									</p>
+									<p id="registerfailtextuser">
+										<h4 class="registerfailuser">Benutzername bereits vergeben</h4>
+									</p>
+									<p id="registersuccestext">
+										<h4 class="registersucces">Registrierung erfolgreich, sie werden weitergeleitet</h4>
+									</p>
+									<p><a onclick="registerclient()" class="btn btn-primary btn-outline btn-md">Registrieren</a></p>
+							</form>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+		<footer id="colorlib-footer">
+
+			<div class="container">
+				<div class="row row-pb-md">
+
+
+					<div class="col-md-3 colorlib-widget">
+						<h4>Kontaktinformationen</h4>
+						<ul class="colorlib-footer-links">
+														<li>Mithunan Ragunathan | Dennis Haupt | Daniel Möller</li>
+							<li>Hochschule-Ruhr-West <br> Duisburgerstr. 100 <br> Mülheim an der Ruhr</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="copy">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<p>
+								<small class="block"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small><br>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
+	<!--<script src="pages/js/service-worker.js"></script>-->
+	<!-- jQuery -->
+	<script src="pages/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="pages/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="pages/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="pages/js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="pages/js/jquery.stellar.min.js"></script>
+	<!-- Flexslider -->
+	<script src="pages/js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="pages/js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="pages/js/jquery.magnific-popup.min.js"></script>
+	<script src="pages/js/magnific-popup-options.js"></script>
+	<!-- Counters -->
+	<script src="pages/js/jquery.countTo.js"></script>
+	<!-- Main -->
+	<script src="pages/js/main.js"></script>
+	<script src="pages/register.js"></script>
+	<!-- end of service worker -->
+</body>
+
+</html>
