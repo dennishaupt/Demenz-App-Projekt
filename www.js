@@ -267,11 +267,6 @@ app.get('/', function(req, res) {
   });
 });
 
-// about page 
-app.get('/about', function(req, res) {
-  res.render('about.ejs');
-});
-
 // register page 
 app.get('/register', function(req, res) {
    res.render('register.ejs');

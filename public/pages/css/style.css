@@ -1548,3 +1548,6 @@ input[type="text"] {
 .boldfont {
   font-weight: bold;
 }
+.pointless {
+  list-style-type: none;
+}
