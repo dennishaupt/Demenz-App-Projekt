@@ -11,7 +11,7 @@
         "express-session": "^1.16.1",
         "fetch": "^1.1.0",
         "mongodb": "^3.2.5",
-        "mongoose": "^5.5.14",
+        "mongoose": "^5.7.5",
         "passport": "~0.3.2",
         "passport-facebook": "~2.1.1",
         "passport-google-oauth": "~1.0.0",
